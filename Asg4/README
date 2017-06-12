@@ -1,0 +1,12 @@
+//------------------------------------------------------------------------------#
+//   Riise Kennard, riakenna@ucsc.edu                                           #
+//   CS 112: Asg4 Prolog                                                        #
+//   README                                                                     #
+//                                                                              #
+//------------------------------------------------------------------------------#
+
+functions.pl
+Airline Reservation System. Uses Haversine formula to find shortest paths between airports with compatible flight intervals. Given a request to travel from one city to another, this program will print out the flight schedule, and for each leg of the trip, it will print out the departure airport, airport name, city name, and time.
+
+README
+Brief summary of files.
