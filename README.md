@@ -8,4 +8,4 @@ Asg2 - OCaml
 
 Asg3 - Smalltalk
 
-Asg4 - Pascal
+Asg4 - Prolog
