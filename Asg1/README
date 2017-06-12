@@ -1,0 +1,15 @@
+//------------------------------------------------------------------------------#
+//   Riise Kennard, riakenna@ucsc.edu                                           #
+//   CS 112: Asg1 Scheme                                                        #
+//   README                                                                     #
+//                                                                              #
+//------------------------------------------------------------------------------#
+
+sbi.scm
+Silly Basic Interpreter: Reads in SBIR program and interprets into scheme. First parses 
+program to find and set labels. Then iterates through the program translating and executing
+each line.
+
+
+README
+Brief summary of files.
